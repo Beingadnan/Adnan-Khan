@@ -1,4 +1,4 @@
-![logo]https://github.com/Beingadnan/Adnan-Khan/blob/main/README.md
+
 # Adnan-Khan
 <h1 align="center">Hi 👋, I'm Md Adnan Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
